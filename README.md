@@ -82,26 +82,27 @@
 <input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 0 a 200
  <input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 250 a 600
 <input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 650 o más
+<br />
 
                
 
- 2. ¿Tienes empleo o fuente de ingresos estable?:
+ 3. ¿Tienes empleo o fuente de ingresos estable?:
 <input type="radio" name=" 2. ¿Tienes empleo o fuente de ingresos estable?"> Sí
  <input type="radio" name=" 2. ¿Tienes empleo o fuente de ingresos estable?"> No
+<br />
 
-
- 3. ¿Tienes acceso a servicios básicos como agua potable y electricidad?
+ 4. ¿Tienes acceso a servicios básicos como agua potable y electricidad?
     <input type="radio" name="  3. ¿Tienes acceso a servicios básicos como agua potable y electricidad?"> Sí
     <input type="radio" name="  3. ¿Tienes acceso a servicios básicos como agua potable y electricidad?"> No
+<br />
 
-
-4. ¿Tienes acceso a atención médica adecuada cuando la necesitas?
+5. ¿Tienes acceso a atención médica adecuada cuando la necesitas?
    <input type="radio" name=" 4. ¿Tienes acceso a atención médica adecuada cuando la necesitas?"> Sí dispongo
    <input type="radio" name=" 4. ¿Tienes acceso a atención médica adecuada cuando la necesitas?"> No dispongo     
 
 
 
-5. ¿Cuál es el tamaño de tu hogar? (Número de miembros)
+6. ¿Cuál es el tamaño de tu hogar? (Número de miembros)
       <input type="radio" name="5. ¿Cuál es el tamaño de tu hogar? (Número de miembros)">1 a 3 miembros
       <input type="radio" name="5. ¿Cuál es el tamaño de tu hogar? (Número de miembros)"> 4 a 6 miembros           
       <input type="radio" name="5. ¿Cuál es el tamaño de tu hogar? (Número de miembros)"> 7 o más
@@ -171,5 +172,3 @@
 
   <p>&copy; 2023 Formulario. Los datos recopilados garantizan el anónimato y confidencial, utilizada únicamente con fines estadísticos y de investigación.</p>
  </footer>
-</body>
-</html>
