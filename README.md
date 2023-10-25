@@ -79,92 +79,95 @@
   <legend>Formulario</legend>
 
   1. ¿Cuál es tu nivel de ingresos mensuales aproximado?:
-<input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 0 a 200
- <input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 250 a 600
-<input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 650 o más
+<br /><input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 0 a 200
+<br /> <input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 250 a 600
+<br /><input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 650 o más
 <br />
 
                
 
- 3. ¿Tienes empleo o fuente de ingresos estable?:
-<input type="radio" name=" 2. ¿Tienes empleo o fuente de ingresos estable?"> Sí
- <input type="radio" name=" 2. ¿Tienes empleo o fuente de ingresos estable?"> No
+ 2. ¿Tienes empleo o fuente de ingresos estable?:
+<br /><input type="radio" name=" 2. ¿Tienes empleo o fuente de ingresos estable?"> Sí
+<br /> <input type="radio" name=" 2. ¿Tienes empleo o fuente de ingresos estable?"> No
 <br />
 
- 4. ¿Tienes acceso a servicios básicos como agua potable y electricidad?
-    <input type="radio" name="  3. ¿Tienes acceso a servicios básicos como agua potable y electricidad?"> Sí
-    <input type="radio" name="  3. ¿Tienes acceso a servicios básicos como agua potable y electricidad?"> No
+ 3. ¿Tienes acceso a servicios básicos como agua potable y electricidad?
+  <br />  <input type="radio" name="  3. ¿Tienes acceso a servicios básicos como agua potable y electricidad?"> Sí
+  <br />  <input type="radio" name="  3. ¿Tienes acceso a servicios básicos como agua potable y electricidad?"> No
 <br />
 
-5. ¿Tienes acceso a atención médica adecuada cuando la necesitas?
-   <input type="radio" name=" 4. ¿Tienes acceso a atención médica adecuada cuando la necesitas?"> Sí dispongo
-   <input type="radio" name=" 4. ¿Tienes acceso a atención médica adecuada cuando la necesitas?"> No dispongo     
+4. ¿Tienes acceso a atención médica adecuada cuando la necesitas?
+ <br />  <input type="radio" name=" 4. ¿Tienes acceso a atención médica adecuada cuando la necesitas?"> Sí dispongo
+ <br />  <input type="radio" name=" 4. ¿Tienes acceso a atención médica adecuada cuando la necesitas?"> No dispongo     
+<br />
 
 
-
-6. ¿Cuál es el tamaño de tu hogar? (Número de miembros)
+5. ¿Cuál es el tamaño de tu hogar? (Número de miembros)
       <input type="radio" name="5. ¿Cuál es el tamaño de tu hogar? (Número de miembros)">1 a 3 miembros
       <input type="radio" name="5. ¿Cuál es el tamaño de tu hogar? (Número de miembros)"> 4 a 6 miembros           
       <input type="radio" name="5. ¿Cuál es el tamaño de tu hogar? (Número de miembros)"> 7 o más
+<br />
+
+6. ¿Tienes acceso a una vivienda adecuada?
+    <input type="radio" name="vivienda" value="Si"> Sí
+    <input type="radio" name="vivienda" value="No"> No
+<br />
+
+   7. ¿Tienes acceso a una educación de calidad?
+   <input type="radio" name="educacion" value="Si"> Sí
+   <input type="radio" name="educacion" value="No"> No
+<br />
 
 
-    6. ¿Tienes acceso a una vivienda adecuada?
-        <input type="radio" name="vivienda" value="Si"> Sí
-        <input type="radio" name="vivienda" value="No"> No
-
-
-        7. ¿Tienes acceso a una educación de calidad?
-
-        <input type="radio" name="educacion" value="Si"> Sí
-        <input type="radio" name="educacion" value="No"> No
-
-
-
-        8. ¿Has experimentado inseguridad alimentaria en el último año?
+   8. ¿Has experimentado inseguridad alimentaria en el último año?
         <input type="radio" name="inseguridad_alimentaria" value="Si"> Sí
         <input type="radio" name="inseguridad_alimentaria" value="No"> No
+<br />
 
 
+   9. ¿Estás inscrito en programas de asistencia social o programas gubernamentales?
+    <input type="radio" name="asistencia_social" value="Si"> Sí
+   <input type="radio" name="asistencia_social" value="No"> No
+<br />
 
-       9. ¿Estás inscrito en programas de asistencia social o programas gubernamentales?
-        <input type="radio" name="asistencia_social" value="Si"> Sí
-        <input type="radio" name="asistencia_social" value="No"> No
-
-
-        10. ¿Tienes deudas significativas o préstamos pendientes?
-        <input type="radio" name="deudas" value="Si"> Sí
-        <input type="radio" name="deudas" value="No"> No
-
+10. ¿Tienes deudas significativas o préstamos pendientes?
+    <input type="radio" name="deudas" value="Si"> Sí
+    <input type="radio" name="deudas" value="No"> No
+<br />
 
 11.¿Has tenido dificultades para acceder a servicios financieros?:
   <input type="radio" name="11. ¿Has tenido dificultades para acceder a servicios financieros?"> Si
   <input type="radio" name="11. ¿Has tenido dificultades para acceder a servicios financieros?"> No
   <input type="radio" name="11. ¿Has tenido dificultades para acceder a servicios financieros?"> Aveces
-
+<br />
 
  12. ¿Vives en una zona urbana o rural?:
      <input type="radio" name=" 12. ¿Vives en una zona urbana o rural?"> Urbana
       <input type="radio" name=" 12. ¿Vives en una zona urbana o rural?"> Rural
-
+<br />
 
  13. ¿Has experimentado desplazamiento o falta de vivienda en el pasado?:
      <input type="radio" name="  13. ¿Has experimentado desplazamiento o falta de vivienda en el pasado?"> Sí
       <input type="radio" name="  13. ¿Has experimentado desplazamiento o falta de vivienda en el pasado?"> No         
-
+<br />
 
 
 14. ¿Tienes acceso a oportunidades de empleo y capacitación?:
     <input type="radio" name=" 14. ¿Tienes acceso a oportunidades de empleo y capacitación?"> Sí dispongo
     <input type="radio" name=" 14. ¿Tienes acceso a oportunidades de empleo y capacitación?"> No dispongo          
-
+<br />
 
 
 15. ¿Has experimentado discriminación o falta de oportunidades debido a tu origen étnico, género o discapacidad?:
       <input type="radio" name="15. ¿Has experimentado discriminación o falta de oportunidades debido a tu origen étnico, género o discapacidad? "> Si
       <input type="radio" name="15. ¿Has experimentado discriminación o falta de oportunidades debido a tu origen étnico, género o discapacidad? "> No        
       <input type="radio" name="15. ¿Has experimentado discriminación o falta de oportunidades debido a tu origen étnico, género o discapacidad? "> Algunas vez
-
+<br />
+<br />
  Puede compartir sus experiencias personales o familiares de pobreza: <TEXTAREA COLS="50" ROWS="8"> </TEXTAREA>
+
+<br />
+<br />
 
 <input type="submit" value="Enviar datos">
 </fieldset>
