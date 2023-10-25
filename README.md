@@ -120,56 +120,56 @@
 
 
    8. ¿Has experimentado inseguridad alimentaria en el último año?
-    <br />    <input type="radio" name="inseguridad_alimentaria" value="Si"> Sí
-    <br />    <input type="radio" name="inseguridad_alimentaria" value="No"> No
+    <br /> <input type="radio" name="inseguridad_alimentaria" value="Si"> Sí
+    <br /> <input type="radio" name="inseguridad_alimentaria" value="No"> No
 <br />
 
 
    9. ¿Estás inscrito en programas de asistencia social o programas gubernamentales?
- <br />   <input type="radio" name="asistencia_social" value="Si"> Sí
+ <br /> <input type="radio" name="asistencia_social" value="Si"> Sí
   <br /> <input type="radio" name="asistencia_social" value="No"> No
 <br />
 
 10. ¿Tienes deudas significativas o préstamos pendientes?
- <br />   <input type="radio" name="deudas" value="Si"> Sí
- <br />   <input type="radio" name="deudas" value="No"> No
+ <br /> <input type="radio" name="deudas" value="Si"> Sí
+ <br /> <input type="radio" name="deudas" value="No"> No
 <br />
 
 11.¿Has tenido dificultades para acceder a servicios financieros?:
-  <input type="radio" name="11. ¿Has tenido dificultades para acceder a servicios financieros?"> Si
-  <input type="radio" name="11. ¿Has tenido dificultades para acceder a servicios financieros?"> No
-  <input type="radio" name="11. ¿Has tenido dificultades para acceder a servicios financieros?"> Aveces
+ <br /> <input type="radio" name="11. ¿Has tenido dificultades para acceder a servicios financieros?"> Si
+  <br /><input type="radio" name="11. ¿Has tenido dificultades para acceder a servicios financieros?"> No
+  <br /><input type="radio" name="11. ¿Has tenido dificultades para acceder a servicios financieros?"> Aveces
 <br />
 
  12. ¿Vives en una zona urbana o rural?:
-   <br />  <input type="radio" name=" 12. ¿Vives en una zona urbana o rural?"> Urbana
-   <br />   <input type="radio" name=" 12. ¿Vives en una zona urbana o rural?"> Rural
+   <br /> <input type="radio" name=" 12. ¿Vives en una zona urbana o rural?"> Urbana
+   <br /> <input type="radio" name=" 12. ¿Vives en una zona urbana o rural?"> Rural
 <br />
 
  13. ¿Has experimentado desplazamiento o falta de vivienda en el pasado?:
-   <br />  <input type="radio" name="  13. ¿Has experimentado desplazamiento o falta de vivienda en el pasado?"> Sí
-   <br />   <input type="radio" name="  13. ¿Has experimentado desplazamiento o falta de vivienda en el pasado?"> No         
+   <br /><input type="radio" name="  13. ¿Has experimentado desplazamiento o falta de vivienda en el pasado?"> Sí
+   <br /><input type="radio" name="  13. ¿Has experimentado desplazamiento o falta de vivienda en el pasado?"> No         
 <br />
 
 
 14. ¿Tienes acceso a oportunidades de empleo y capacitación?:
-  <br />  <input type="radio" name=" 14. ¿Tienes acceso a oportunidades de empleo y capacitación?"> Sí dispongo
-  <br />  <input type="radio" name=" 14. ¿Tienes acceso a oportunidades de empleo y capacitación?"> No dispongo          
+  <br /><input type="radio" name=" 14. ¿Tienes acceso a oportunidades de empleo y capacitación?"> Sí dispongo
+  <br /><input type="radio" name=" 14. ¿Tienes acceso a oportunidades de empleo y capacitación?"> No dispongo          
 <br />
 
 
 15. ¿Has experimentado discriminación o falta de oportunidades debido a tu origen étnico, género o discapacidad?:
-    <br />  <input type="radio" name="15. ¿Has experimentado discriminación o falta de oportunidades debido a tu origen étnico, género o discapacidad? "> Si
-     <br /> <input type="radio" name="15. ¿Has experimentado discriminación o falta de oportunidades debido a tu origen étnico, género o discapacidad? "> No  
-   <br />   <input type="radio" name="15. ¿Has experimentado discriminación o falta de oportunidades debido a tu origen étnico, género o discapacidad? "> Algunas vez
+    <br /><input type="radio" name="15. ¿Has experimentado discriminación o falta de oportunidades debido a tu origen étnico, género o discapacidad? "> Si
+     <br /><input type="radio" name="15. ¿Has experimentado discriminación o falta de oportunidades debido a tu origen étnico, género o discapacidad? "> No  
+   <br /><input type="radio" name="15. ¿Has experimentado discriminación o falta de oportunidades debido a tu origen étnico, género o discapacidad? "> Algunas vez
 <br />
 <br />
- Puede compartir sus experiencias personales o familiares de pobreza: <TEXTAREA COLS="50" ROWS="8"> </TEXTAREA>
+ <br />Puede compartir sus experiencias personales o familiares de pobreza: <TEXTAREA COLS="50" ROWS="8"> </TEXTAREA>
 
 <br />
 <br />
 
-<input type="submit" value="Enviar datos">
+<br /><input type="submit" value="Enviar datos">
 </fieldset>
  <footer>
 
