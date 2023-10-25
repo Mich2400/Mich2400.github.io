@@ -1,33 +1,16 @@
 # Mich2400.github.io
 <html lang="es-ES">
-
-  
-
 <head>
 
-    <meta charset="utf-8">
-
-    <title>PROYECTO 3</title>
-
-
-
+  <meta charset="utf-8">
+  <title>PROYECTO 3</title>
 <body>
 
-    <style>
-
-
-
+ <style>
         h1 {
 
             font-size: 60px;
-
-
-
         }
-
-
-
-
 
         .container {
 
@@ -44,7 +27,6 @@
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 
         }
-
 
 
         .content {
@@ -69,75 +51,48 @@
 
     </style>
 
+  <header style="background-color:#E59866;color: #fff;padding: 20px; text-align: center; font-size: 26px;">
 
+   <h1><p align="center">Comparte tu Historia: Encuesta sobre la Realidad de la Pobreza</p></h1>
 
-     <header style="background-color:#E59866;color: #fff;padding: 20px;
-
-            text-align: center; font-size: 26px;">
-
-
-
-        <h1><p align="center">Comparte tu Historia: Encuesta sobre la Realidad de la Pobreza</p></h1>
-
-        
-
-    </header>
+   </header>
 
 <nav style= "max-width: 1000px;margin: 20px auto; padding: 20px;background-color: #fff;border-radius: 5px;box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);">
 
-
-
-            <p>"Gracias por participar en nuestra encuesta sobre la pobreza. Tu voz es esencial para comprender y abordar este desafío global. La pobreza afecta a millones de personas en todo el mundo, y tu perspectiva y experiencia son valiosas para crear soluciones efectivas. Te invitamos a compartir tus pensamientos y vivencias, ya que juntos podemos contribuir a un mundo más inclusivo y equitativo. Por favor, tómate un momento para responder a las siguientes preguntas con honestidad y confianza."</p></nav>
-
-
-
-    <div class="container">
-
-        <div class="content">
+ <p>"Gracias por participar en nuestra encuesta sobre la pobreza. Tu voz es esencial para comprender y abordar este desafío global. La pobreza afecta a millones de personas en todo el mundo, y tu perspectiva y experiencia son valiosas para crear soluciones efectivas. Te invitamos a compartir tus pensamientos y vivencias, ya que juntos podemos contribuir a un mundo más inclusivo y equitativo. Por favor, tómate un momento para responder a las siguientes preguntas con honestidad y confianza."</p></nav>
 
 
 
+<div class="container">
+ <div class="content">
 
+   <fieldset>
+  <legend>Datos Generales</legend>
+  <p>Edad: <input type="text" name="edad"></p>
+<p>Ubicación donde reside: <input type="text" name="ubicacion"size="60"></p>
+<p>Sexo: </br></br>
+<input type="radio" name="sexo" value="Mujer"> Mujer</br></br>
+ <input type="radio" name="sexo" value="Hombre"> Hombre</br></br></p>
+ </fieldset></br></br>
 
-    <fieldset>
-
-                  <legend>Datos Generales</legend>
-
-                  <p>Edad: <input type="text" name="edad"></p>
-
-                  <p>Ubicación donde reside: <input type="text" name="ubicacion"size="60"></p>
-
-                  <p>Sexo: </br></br>
-
-                                <input type="radio" name="sexo" value="Mujer"> Mujer</br></br>
-
-                                <input type="radio" name="sexo" value="Hombre"> Hombre</br></br></p>
-
-              </fieldset></br></br>
-
-
-
-
-
-                            <fieldset>
-
-                  <legend>Formulario</legend>
+<fieldset>
+  <legend>Formulario</legend>
 
   1. ¿Cuál es tu nivel de ingresos mensuales aproximado?: </br></br>
 
-                <input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 0 a 200</br></br>
+<input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 0 a 200</br></br>
 
-                <input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 250 a 600</br></br>
+ <input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 250 a 600</br></br>
 
-                <input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 650 o más</br></br>
+<input type="radio" name="1. ¿Cuál es tu nivel de ingresos mensuales aproximado?"> 650 o más</br></br>
 
                
 
  2. ¿Tienes empleo o fuente de ingresos estable?:</br></br>
 
-                <input type="radio" name=" 2. ¿Tienes empleo o fuente de ingresos estable?"> Si</br></br>
+<input type="radio" name=" 2. ¿Tienes empleo o fuente de ingresos estable?"> Si</br></br>
 
-                <input type="radio" name=" 2. ¿Tienes empleo o fuente de ingresos estable?"> No</br></br>
+ <input type="radio" name=" 2. ¿Tienes empleo o fuente de ingresos estable?"> No</br></br>
 
 
 
