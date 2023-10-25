@@ -69,10 +69,10 @@
    <fieldset>
   <legend>Datos Generales</legend>
   <p>Edad: <input type="text" name="edad"></p>
-<p>Ubicación donde reside: <input type="text" name="ubicacion"size="60"></p>
+<p>Ubicación donde reside: <input type="text"></p>
 <p>Sexo: </br></br>
-<input type="radio" name="sexo" value="Mujer"> Mujer</br></br>
- <input type="radio" name="sexo" value="Hombre"> Hombre</br></br></p>
+<input type="radio" name="sexo" value="Mujer"> Mujer
+ <input type="radio" name="sexo" value="Hombre"> Hombre</p>
  </fieldset></br></br>
 
 <fieldset>
