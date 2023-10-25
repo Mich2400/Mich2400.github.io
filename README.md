@@ -70,7 +70,7 @@
   <legend>Datos Generales</legend>
   <p>Edad: <input type="text" name="edad"></p>
 <p>Ubicación donde reside: <input type="text"></p>
-<p>Sexo: </br></br>
+<p>Sexo:
 <input type="radio" name="sexo" value="Mujer"> Mujer
  <input type="radio" name="sexo" value="Hombre"> Hombre</p>
  </fieldset></br></br>
